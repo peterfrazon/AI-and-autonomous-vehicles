@@ -1,7 +1,7 @@
 # AI-and-autonomous-vehicles
-Artificial Intelligence and autonomous vechicles (GKNB_MSTA057) 
+Artificial Intelligence and autonomous vehicles (GKNB_MSTA057) 
 Team members:
-Halmos Szabolcs
-Frazon Péter
-Novák Bence 
-Szabó Márton
+Halmos Szabolcs - JO86HG
+Frazon Péter - GP7RBL
+Novák Bence - KZRKQT
+Szabó Márton - JQF2HP
