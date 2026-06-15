@@ -8,7 +8,7 @@ from controllers.pure_pursuit import PurePursuitController
 class SteeringNet(nn.Module):
     def __init__(self):
         super(SteeringNet, self).__init__()
-        # UPGRADE: Input layer now takes 12 features instead of 2
+        
         # (CTE, Heading Error, and 5 upcoming local X,Y path points)
         self.network = nn.Sequential(
             nn.Linear(12, 32),  # Wider hidden layer to process the path
